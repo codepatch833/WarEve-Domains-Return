@@ -1,13 +1,12 @@
 # WarEve Domains Return
 WarEve - Domains Return v1.2.2.1 / This is the repository for the Github GameOff Jam on itch.io
 
-【ＤＥＳＣＲＩＰＴＩＯＮ】
-————————————————————————
-► IMPORTANT MESSAGE!!!
+【ＤＥＳＣＲＩＰＴＩＯＮ】 ► IMPORTANT MESSAGE!!!
 (read carefully before continuing!)
 → Our world is full of war, I shouldn't have to tell you, but I will anyway. Right now you have a game in front of you... a game, not reality. Never confuse these two things, because there is no room for violence in the world ;)
-————————————————————————
+
 In this medieval strategy game, players take on the role of a lord or lady tasked with building and managing their own city. This involves constructing and upgrading various buildings, such as farms, barracks, and castles, to generate resources, train troops, and bolster defenses. Players must also carefully manage their economy, balancing income and expenditure to ensure the city's prosperity. When ready, players can raise armies and engage in battles with rival cities. Combat is not simply a matter of numbers, however, as factors such as terrain and weather play a significant role in determining the outcome. In addition to player-controlled conflicts, the game world features simulated wars between other AI-controlled states, adding an element of unpredictability and dynamism to the gameplay.
+
 
 【ＳＨＯＲＴＣＵＴＳ】
 F --> use/don't use full screen mode
@@ -16,8 +15,10 @@ S --> use it to open lateral menù
 C --> open war conditions page
 H --> use it to open helpboook
 
+
 【ＳＵＰＰＯＲＴ】
 If you liked this project, please leave a ❤️ or a ⭐ on scratch (at https://scratch.mit.edu/projects/1147715883/), leave a comment or follow me. Thank you!
+
 
 【ＣＨＡＮＧＥ　ＬＯＧ】
 ✅15/3/2025- v1.2.2.1:
